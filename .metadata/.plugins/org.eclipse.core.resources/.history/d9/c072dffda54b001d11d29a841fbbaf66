@@ -1,0 +1,17 @@
+package com.luv2code.springdemo;
+
+public class JyuudouCoach implements Coach {
+
+	private FortuneService fortuneService;
+	
+	@Override
+	public String getDailyWorkout() {
+		return "Fix your whole body flexibllity";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		return fortuneService.getFortune();
+	}
+
+}

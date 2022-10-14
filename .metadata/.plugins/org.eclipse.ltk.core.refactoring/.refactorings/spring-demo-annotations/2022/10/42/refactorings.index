@@ -1,0 +1,4 @@
+1665568348177	Rename resource 'abc.properties'
+1665740776851	Rename type 'RESTFortuneService'
+1665741357553	Extract local variable 'context'
+1665741435438	Extract local variable 'theCoach'
