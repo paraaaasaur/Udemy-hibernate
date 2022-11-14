@@ -33,14 +33,16 @@
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
-    <fullyQualifiedTypeName name="com.luv2code.springdemo.SportConfig"/>
-    <fullyQualifiedTypeName name="com.luv2code.springdemo.Coach"/>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.SadFortuneService"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
-    <fullyQualifiedTypeName name="com.luv2code.springdemo.FortuneService"/>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.SwimCoach"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySources"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.JyuudouCoach"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.FortuneService"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.SaltyFortuneService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.SportConfig"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.Coach"/>
 </qualifiedTypeNameHistroy>

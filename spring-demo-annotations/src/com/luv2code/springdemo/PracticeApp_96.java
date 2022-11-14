@@ -14,11 +14,10 @@ public class PracticeApp_96 {
 		System.out.println(theCoach.getDailyFortune());
 		
 		try {
-			context.close();						
+			context.close();
+			System.out.println("*** Context closed successfully ***");
 		} catch (Exception e) {
 			e.printStackTrace();
-		} finally {
-			System.out.println("*** Context closed successfully ***");
 		}
 		
 		
