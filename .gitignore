@@ -2,7 +2,7 @@
 Servers/
 *.class
 *.log
-/spring-mvc-demo/target
+**/target
 
 **/.classpath
 **/.project
