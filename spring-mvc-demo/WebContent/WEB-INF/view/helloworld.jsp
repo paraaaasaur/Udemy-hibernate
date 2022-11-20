@@ -9,6 +9,10 @@
 	<br><br>
 	
 	Student name: ${param.studentName}
+	
+	<hr>
+	Processed Data
+	- Student name: ${message} 
 
 </body>
 
