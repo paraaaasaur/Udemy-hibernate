@@ -23,6 +23,10 @@
 		<property name="prefix" value="/WEB-INF/view/" />
 		<property name="suffix" value=".jsp" />
 	</bean>
+	
+	
+	<!-- Ch12/L118: To locate the directory for resources -->
+	<mvc:resources mapping="/resources/**" location="/resources/"/> 
 
 </beans>
 
