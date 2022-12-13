@@ -8,7 +8,9 @@
 <body>
 
 	Student: ${student.firstName} ${student.lastName} is confirmed!
-
+	<br>
+	Country: ${student.country}
+	
 </body>
 
 </html>
